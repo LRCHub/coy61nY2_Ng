@@ -1,0 +1,184 @@
+{
+  "version": 1,
+  "base_track": "Watch",
+  "base_artist": "Stella Mwangi、VALORANT",
+  "createdAt": "2025-12-01T06:46:37.126167Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Gold Watch And Chain - Remastered",
+      "artist": "Emmylou Harris",
+      "has_synced": false,
+      "path": "select/01_Gold_Watch_And_Chain_-_Remastered_Emmylou_Harris.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Gold Watch and Chain (2002 Remaster) (Remastered LP Version)",
+      "artist": "Emmylou Harris",
+      "has_synced": false,
+      "path": "select/02_Gold_Watch_and_Chain_(2002_Remaster)_(Remastered_LP_Version)_Emmylou_Harris.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Watch Me",
+      "artist": "Lorrie Morgan",
+      "has_synced": true,
+      "path": "select/03_Watch_Me_Lorrie_Morgan.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Watch The Wind Blow By",
+      "artist": "Tim McGraw",
+      "has_synced": true,
+      "path": "select/04_Watch_The_Wind_Blow_By_Tim_McGraw.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Watch This",
+      "artist": "Clay Walker",
+      "has_synced": true,
+      "path": "select/05_Watch_This_Clay_Walker.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Watch This (Album Version)",
+      "artist": "Clay Walker",
+      "has_synced": true,
+      "path": "select/06_Watch_This_(Album_Version)_Clay_Walker.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Watch That Man (Live)",
+      "artist": "David Bowie",
+      "has_synced": false,
+      "path": "select/07_Watch_That_Man_(Live)_David_Bowie.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Watch That Man",
+      "artist": "David Bowie",
+      "has_synced": false,
+      "path": "select/08_Watch_That_Man_David_Bowie.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Watch That Man (Live '74)",
+      "artist": "David Bowie",
+      "has_synced": false,
+      "path": "select/09_Watch_That_Man_(Live_'74)_David_Bowie.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Skit a (Interview / Watch What You Say",
+      "artist": "Guru",
+      "has_synced": false,
+      "path": "select/10_Skit_a_(Interview___Watch_What_You_Say_Guru.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Skit A (Interview): Watch What You Say",
+      "artist": "Guru",
+      "has_synced": false,
+      "path": "select/11_Skit_A_(Interview)__Watch_What_You_Say_Guru.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Music To Watch Boys To",
+      "artist": "Lana Del Rey",
+      "has_synced": true,
+      "path": "select/12_Music_To_Watch_Boys_To_Lana_Del_Rey.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Watch Out for Me Ronnie",
+      "artist": "Yo La Tengo",
+      "has_synced": true,
+      "path": "select/13_Watch_Out_for_Me_Ronnie_Yo_La_Tengo.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Gold Watch",
+      "artist": "Lupe Fiasco",
+      "has_synced": true,
+      "path": "select/14_Gold_Watch_Lupe_Fiasco.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Gold Watch",
+      "artist": "Lupe Fiasco",
+      "has_synced": true,
+      "path": "select/15_Gold_Watch_Lupe_Fiasco.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "I Sit I Watch I Wait",
+      "artist": "Lost Sounds",
+      "has_synced": true,
+      "path": "select/16_I_Sit_I_Watch_I_Wait_Lost_Sounds.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Silly Watch",
+      "artist": "Lil Uzi Vert",
+      "has_synced": true,
+      "path": "select/17_Silly_Watch_Lil_Uzi_Vert.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Watch!!",
+      "artist": "KANA-BOON",
+      "has_synced": false,
+      "path": "select/pl_01_Watch!!_KANA-BOON.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "watch!!",
+      "artist": "KANA-BOON",
+      "has_synced": false,
+      "path": "select/pl_02_watch!!_KANA-BOON.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "Watch Me",
+      "artist": "KANA-BOON",
+      "has_synced": false,
+      "path": "select/pl_03_Watch_Me_KANA-BOON.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "watch!!",
+      "artist": "KANA-BOON",
+      "has_synced": false,
+      "path": "select/pl_04_watch!!_KANA-BOON.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "WATCH OUT",
+      "artist": "KANA-BOON",
+      "has_synced": false,
+      "path": "select/pl_05_WATCH_OUT_KANA-BOON.txt"
+    }
+  ]
+}
